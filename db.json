@@ -1,0 +1,131 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "IT Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur",
+      "courses": 120,
+      "image": "categories/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur",
+      "courses": 70,
+      "image": "categories/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Illustration & Drawing",
+      "description": "Lorem ipsum dolor sit amet, consectetur",
+      "courses": 55,
+      "image": "categories/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Social Media",
+      "description": "Lorem ipsum dolor sit amet, consectetur",
+      "courses": 40,
+      "image": "categories/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Photoshop",
+      "description": "Lorem ipsum dolor sit amet, consectetur",
+      "courses": 220,
+      "image": "categories/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cryptocurrencies",
+      "description": "Lorem ipsum dolor sit amet, consectetur",
+      "courses": 25,
+      "image": "categories/6.jpg"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Art & Crafts",
+      "description": "Lorem ipsum dolor sit amet, consectetur",
+      "students": 120,
+      "category":"finance",
+      "price": 15,
+      "image": "courses/1.jpg",
+      "autherimage": "authors/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "IT Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur",
+      "students": 120,
+      "category":"design",
+      "price": 15,
+      "image": "courses/2.jpg",
+      "autherimage": "authors/2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Graphic Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur",
+        "students": 120,
+        "price": 15,
+        "category":"web",
+        "image": "courses/3.jpg",
+        "autherimage": "authors/3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "IT Development",
+        "description": "Lorem ipsum dolor sit amet, consectetur",
+        "students": 120,
+        "price": 15,
+        "category":"finance",
+        "image": "courses/4.jpg",     
+        "autherimage": "authors/4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Graphic Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur",
+        "students": 120,
+        "price": 15,
+        "category":"photo",   
+        "image": "courses/5.jpg",
+        "autherimage": "authors/5.jpg"
+
+      },
+      {
+        "id": 6,
+        "title": "Social Media",
+        "description": "Lorem ipsum dolor sit amet, consectetur",
+        "students": 120,
+        "price": 15,
+        "category":"design",
+        "image": "courses/6.jpg",
+        "autherimage": "authors/6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Illustration & Drawing",
+        "description": "Lorem ipsum dolor sit amet, consectetur",
+        "students": 120,
+        "price": 15,
+        "category":"finance",
+        "image": "courses/7.jpg",
+        "autherimage": "authors/7.jpg"
+      }
+,      {
+    "id": 8,
+    "title": "Photoshop",
+    "description": "Lorem ipsum dolor sit amet, consectetur",
+    "students": 120,
+    "price": 15,
+    "category":"web",
+    "image": "courses/8.jpg",
+    "autherimage": "authors/8.jpg"
+  }     
+   ]
+  
+  
+}
